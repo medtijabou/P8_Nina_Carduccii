@@ -44,6 +44,9 @@ body {
 	text-decoration: none;
 	color: #000
 }
+.logo__nav{
+color: #fff;
+}
 
 .social-link img {
 	width: 20px;
