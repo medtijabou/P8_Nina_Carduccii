@@ -44,9 +44,7 @@ body {
 	text-decoration: none;
 	color: #000
 }
-.logo__nav{
-color: #fff;
-}
+
 
 .social-link img {
 	width: 20px;
@@ -97,11 +95,12 @@ color: #fff;
 }
 #about-me p {
 	width: 80%;
-	font-size: 14px;
+	font-size: 16px;
+
 }
 
 #gallery {
-	/*	min-height: 100vh; */
+		min-height: 100vh; 
 }
 .title{
 	text-align: center;
@@ -111,7 +110,7 @@ color: #fff;
 	justify-content: center;
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
-	color: #fff;
+	color:black;
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
