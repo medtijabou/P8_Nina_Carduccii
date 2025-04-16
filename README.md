@@ -3,9 +3,9 @@
 Bienvenue sur le dépôt du projet **Nina Carducci**, une page web optimisée pour une photographe professionnelle.  
 Ce projet a été réalisé dans le cadre du **projet P8** de la formation Développeur Front-End chez **OpenClassrooms**.
 
-🔗 [Voir le site en ligne](https://medtijabou.github.io/P8_Nina_Carduccii/)
-[
-]
+🔗 [Voir le site en ligne](https://medtijabou.github.io/P8_Nina_Carduccii/)  
+🧾 [Voir la présentation Prezi](https://prezi.com/view/iBIxMR23AZJtpCcdnJOT/)
+
 
 ## 🎯 Objectifs du projet
 
@@ -57,8 +57,7 @@ Ce projet a été réalisé dans le cadre du **projet P8** de la formation Déve
 | SEO              | 💯 100 |
 
 ---
-[
-](https://prezi.com/view/iBIxMR23AZJtpCcdnJOT/)
+
 ## 📦 Installation en local
 
 ```bash
