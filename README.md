@@ -4,8 +4,8 @@ Bienvenue sur le dépôt du projet **Nina Carducci**, une page web optimisée po
 Ce projet a été réalisé dans le cadre du **projet P8** de la formation Développeur Front-End chez **OpenClassrooms**.
 
 🔗 [Voir le site en ligne](https://medtijabou.github.io/P8_Nina_Carduccii/)
-
----
+[
+](https://prezi.com/view/iBIxMR23AZJtpCcdnJOT/)---
 
 ## 🎯 Objectifs du projet
 
