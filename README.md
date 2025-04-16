@@ -5,7 +5,7 @@ Ce projet a été réalisé dans le cadre du **projet P8** de la formation Déve
 
 🔗 [Voir le site en ligne](https://medtijabou.github.io/P8_Nina_Carduccii/)
 [
-](https://prezi.com/view/iBIxMR23AZJtpCcdnJOT/)---
+]
 
 ## 🎯 Objectifs du projet
 
@@ -57,7 +57,8 @@ Ce projet a été réalisé dans le cadre du **projet P8** de la formation Déve
 | SEO              | 💯 100 |
 
 ---
-
+[
+](https://prezi.com/view/iBIxMR23AZJtpCcdnJOT/)
 ## 📦 Installation en local
 
 ```bash
